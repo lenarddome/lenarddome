@@ -4,7 +4,7 @@
 
 ## 🔭 Projects
 
-*I develop things mostly for my research, but that doesn't mean that I should be the only one using them.*  🌝
+*I develop things mostly for my research, but that doesn't mean that they should only be availabe to me.*  🌝
 
  * **[psp](https://github.com/lenarddome/psp)**: a tool for cognitive scientist to explore the complete parameter space of computational models and to discover their global behaviour - all their predictions.
  * **[Estimating Sample Size with Bayes Factor](https://www.andywills.info/rminr/power-bayesian.html)**: a complete worksheet worth a textbook chapter.  To my knowledge, this is the only accessible introduction to Bayesian Power Analysis with Monte Carlo for Psychologists. The worksheet is part of the larger Research Methods in R (RMINR), curated by Andy Wills. [RMINR](https://www.andywills.info/rminr/)  is a set of guides on how to use R as your central research methods tool.
