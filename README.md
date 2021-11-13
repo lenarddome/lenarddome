@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 I will always share what I do for free. You will be able to edit, remix, use my code and software given you share yours under the same license. So, if you are using any of my software, consider buying me a coffee ☕ I will go to my favourite coffee shop and continue to code endlessly 💻
 
 <a href="https://coindrop.to/lenarddome" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></img></a>
+
+<a href="https://www.buymeacoffee.com/lenarddome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="57"></a>
