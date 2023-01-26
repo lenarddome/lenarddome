@@ -1,10 +1,16 @@
 # Hi there 👋
 
-🌱 I am currently a Cognitive Science PhD Researcher in the Computational Modelling Lab at the University of Plymouth.
+<font size = 4>
+
+🌱 I am currently a Cognitive Science PhD Researcher in the Computational Modelling Lab at the University of Plymouth. My primary research focuses on computational modelling of categorization and human behavioural complexity. I am also interested in connecting this to work to impression formation and social categorization... **and open sourcing science!**
+
+<font size = 4>
 
 ## 🔭 Projects
 
-*I develop things mostly for my research, but that doesn't mean that they should only be availabe to me.*  🌝
+<font size = 3>
+
+I develop things mostly for my research, but that doesn't mean that they should only be availabe to me. 🌝
 
 **[psp](https://github.com/lenarddome/psp)**: a tool for cognitive scientist to explore the complete parameter space of computational models and to discover their global behaviour - all their predictions.
 
@@ -33,8 +39,14 @@ Here are some ideas to get you started:
 
 I will always share what I do for free. You will be able to edit, remix, use my code and software given you share yours under the same license. So, if you are using any of my software, consider buying me a coffee ☕ I will go to my favourite coffee shop and continue to code endlessly 💻
 
+<p style="text-align: center;">
+
 <a href="https://coindrop.to/lenarddome" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;" alt="Coindrop.to me"></img></a>
 <a href="https://www.buymeacoffee.com/lenarddome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="57"></a>
+
+<p>
+
+</font>
 
 # Technical Skills
 
