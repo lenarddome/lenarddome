@@ -6,9 +6,9 @@
 
 *I develop things mostly for my research, but that doesn't mean that they should only be availabe to me.*  🌝
 
- * **[psp](https://github.com/lenarddome/psp)** [![](https://cranlogs.r-pkg.org/badges/grand-total/psp)](https://cran.r-project.org/package=psp): a tool for cognitive scientist to explore the complete parameter space of computational models and to discover their global behaviour - all their predictions.
- * **[catlearn](https://github.com/ajwills72/catlearn)** [![](https://cranlogs.r-pkg.org/badges/grand-total/catlearn)](https://cran.r-project.org/package=catlearn): catlearn is an archive of formal models of categorization and learning, plus benchmark datasets to test them against. It's also an archive of simulations using those models. It's free and open source software … and always will be.
- * **Computational Modelling**: I am always implementing formal models from Psychology and attempting to replicate simulations, so you don't have to 🌝 Most of my model implementations can be found in [catlearn](https://www.andywills.info/catlearn/). If you want to make your or someone else's model available for everyone and you think I can help with that, feel free to reach out! 🌝
+ * ### **[psp](https://github.com/lenarddome/psp)** [![](https://cranlogs.r-pkg.org/badges/grand-total/psp)](https://cran.r-project.org/package=psp): a tool for cognitive scientist to explore the complete parameter space of computational models and to discover their global behaviour - all their predictions.
+ * ### **[catlearn](https://github.com/ajwills72/catlearn)** [![](https://cranlogs.r-pkg.org/badges/grand-total/catlearn)](https://cran.r-project.org/package=catlearn): catlearn is an archive of formal models of categorization and learning, plus benchmark datasets to test them against. It's also an archive of simulations using those models. It's free and open source software … and always will be.
+ * ### **Computational Modelling**: I am always implementing formal models from Psychology and attempting to replicate simulations, so you don't have to 🌝 Most of my model implementations can be found in [catlearn](https://www.andywills.info/catlearn/). If you want to make your or someone else's model available for everyone and you think I can help with that, feel free to reach out! 🌝
 
 <!--
 **lenarddome/lenarddome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
