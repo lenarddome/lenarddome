@@ -2,7 +2,13 @@
 
 <font size = 4>
 
-🌱 I am currently a Cognitive Science PhD Researcher in the Computational Modelling Lab at the University of Plymouth. My primary research focuses on computational modelling of categorization and human behavioural complexity. I am also interested in connecting this to work to impression formation and social categorization... **and open sourcing science!**
+🌱 **I am a Psychology Ph.D. in the [Computational Modelling Lab](https://www.plymouth.ac.uk/research/psychology/brain-research-and-imaging-centre/the-computational-modelling-laboratory) at the [School of Psychology, University of Plymouth](https://www.plymouth.ac.uk/schools/psychology).**
+
+My primary research focuses on **computational modeling of human heterogeneity**.
+I also develop new and innovative frameworks ([https://psyarxiv.com/ygmcj](https://psyarxiv.com/ygmcj)) for large-scale relative model comparisons.
+In addition, I have done effect-centric research on when **intelligent systems fail** with a special focus on the **inverse base-rate effect** - an irrational effect of non-uniform generalization of learned experience.
+I work hard on **open-sourcing science!** Transparency, openness, reproducibility, and accessibility are at the core of my work culture.
+
 
 <font size = 4>
 
@@ -10,13 +16,13 @@
 
 <font size = 3>
 
-I develop things mostly for my research, but that doesn't mean that they should only be availabe to me. 🌝
+I develop things mostly for my research, but that doesn't mean that they should only be available to me. 🌝
 
-**[psp](https://github.com/lenarddome/psp)**: a tool for cognitive scientist to explore the complete parameter space of computational models and to discover their global behaviour - all their predictions.
+**[psp](https://github.com/lenarddome/psp)**: a tool for cognitive scientists to explore the complete parameter space of computational models and to discover their global behavior - all their predictions.
 
 [![](https://cranlogs.r-pkg.org/badges/grand-total/psp)](https://cran.r-project.org/package=psp)
 
-**[catlearn](https://github.com/ajwills72/catlearn)**: catlearn is an archive of formal models of categorization and learning, plus benchmark datasets to test them against. It's also an archive of simulations using those models. It's free and open source software … and always will be.
+**[catlearn](https://github.com/ajwills72/catlearn)**: catlearn is an archive of formal models of categorization and learning, plus benchmark datasets to test them against. It's also an archive of simulations using those models. It's free and open-source software … and always will be.
 
 [![](https://cranlogs.r-pkg.org/badges/grand-total/catlearn)](https://cran.r-project.org/package=catlearn)
 
@@ -37,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I will always share what I do for free. You will be able to edit, remix, use my code and software given you share yours under the same license. So, if you are using any of my software, consider buying me a coffee ☕ I will go to my favourite coffee shop and continue to code endlessly 💻
+I will always share what I do for free. You will be able to edit, remix, and use my code and software, given you share yours under the same license. So, if you are using any of my software, consider buying me a coffee ☕ I will go to my favorite coffee shop and continue to code endlessly 💻
 
 <p style="text-align: center;">
 
