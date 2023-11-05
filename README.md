@@ -2,7 +2,7 @@
 
 <font size = 4>
 
-🌱 **I am a Psychology Ph.D. in the [Computational Modelling Lab](https://www.plymouth.ac.uk/research/psychology/brain-research-and-imaging-centre/the-computational-modelling-laboratory) at the [School of Psychology, University of Plymouth](https://www.plymouth.ac.uk/schools/psychology).**
+🌱 **I am a computational cognitive scientist.**
 
 My primary research focuses on **computational modeling of human heterogeneity**.
 I also develop new and innovative frameworks ([https://psyarxiv.com/ygmcj](https://psyarxiv.com/ygmcj)) for large-scale relative model comparisons.
