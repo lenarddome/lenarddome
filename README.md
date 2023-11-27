@@ -2,6 +2,9 @@
 
 <font size = 4>
 
+<a rel="me" href="https://sigmoid.social/@lenarddome"></a>
+
+
 🌱 **I am a computational cognitive scientist.**
 
 My primary research focuses on **computational modeling of human heterogeneity**.
