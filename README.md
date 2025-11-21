@@ -8,7 +8,7 @@
 🌱 **I am a computational cognitive scientist.**
 
 My primary research focuses on **computational modeling of human heterogeneity**.
-I also develop new and innovative frameworks ([https://psyarxiv.com/ygmcj](https://psyarxiv.com/ygmcj)) for large-scale relative model comparisons.
+I also develop new and innovative frameworks ([Dome & Wills, 2025, Psych.Rev.](https://doi.org/10.1037/rev0000550)) for large-scale relative model comparisons.
 In addition, I have done effect-centric research on when **intelligent systems fail** with a special focus on the **inverse base-rate effect** - an irrational effect of non-uniform generalization of learned experience.
 I work hard on **open-sourcing science!** Transparency, openness, reproducibility, and accessibility are at the core of my work culture.
 
@@ -28,6 +28,10 @@ I develop things mostly for my research, but that doesn't mean that they should 
 **[catlearn](https://github.com/ajwills72/catlearn)**: catlearn is an archive of formal models of categorization and learning, plus benchmark datasets to test them against. It's also an archive of simulations using those models. It's free and open-source software … and always will be.
 
 [![](https://cranlogs.r-pkg.org/badges/grand-total/catlearn)](https://cran.r-project.org/package=catlearn)
+
+**[cpm](https://github.com/DevComPsy/cpm)**:  cpm is a fundamental scientific modelling library for Computational Psychiatry.
+
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/cpm-toolbox?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/cpm-toolbox)
 
 **Computational Modelling**: I am always implementing formal models from Psychology and attempting to replicate simulations, so you don't have to 🌝 Most of my model implementations can be found in [catlearn](https://www.andywills.info/catlearn/). If you want to make your or someone else's model available for everyone and you think I can help with that, feel free to reach out! 🌝
 
